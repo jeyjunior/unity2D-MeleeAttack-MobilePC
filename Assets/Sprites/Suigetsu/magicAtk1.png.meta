@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: bcd85a97c83874b4bb0471479bc395be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4469685351696843548
+    second: magicAtk1_0
+  - first:
+      213: 8800391839287542160
+    second: magicAtk1_1
+  - first:
+      213: -4261715472652298746
+    second: magicAtk1_2
+  - first:
+      213: 2096753652578844801
+    second: magicAtk1_3
+  - first:
+      213: 2574760548398877722
+    second: magicAtk1_4
+  - first:
+      213: 5935869454217638519
+    second: magicAtk1_5
+  - first:
+      213: 8917271128119784390
+    second: magicAtk1_6
+  - first:
+      213: -463257849381896643
+    second: magicAtk1_7
+  - first:
+      213: -1928729097490084165
+    second: magicAtk1_8
+  - first:
+      213: 7820843847984573390
+    second: magicAtk1_13
+  - first:
+      213: 5033839560905666476
+    second: magicAtk1_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magicAtk1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2522127, y: 0.007240719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb752aadc78f1c0800000000000000
+      internalID: -4469685351696843548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 79
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910bf850c5412a70800000000000000
+      internalID: 8800391839287542160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 79
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60616ce6b585bd4c0800000000000000
+      internalID: -4261715472652298746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.003039592, y: 0.45688522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800773865a291d10800000000000000
+      internalID: 2096753652578844801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.0059205466, y: 0.41649702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c410db3136bb320800000000000000
+      internalID: 2574760548398877722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fbbba1d1706250800000000000000
+      internalID: 5935869454217638519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33d6568d280cb70800000000000000
+      internalID: 8917271128119784390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3e20c07d2299f0800000000000000
+      internalID: -463257849381896643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47989213, y: 0.46285707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec42cca17cb35e0800000000000000
+      internalID: -1928729097490084165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: -0.0048903744, y: 0.47422484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6bea0b08398c60800000000000000
+      internalID: 7820843847984573390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicAtk1_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.53526473, y: 0.45772496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2714096acbd540800000000000000
+      internalID: 5033839560905666476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
