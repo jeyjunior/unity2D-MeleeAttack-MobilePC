@@ -2045,7 +2045,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1358815314}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.45, y: -1.5, z: -0.87}
+  m_LocalPosition: {x: -3.1, y: -1.5, z: -0.87}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children:
   - {fileID: 1185400565}
@@ -2079,7 +2079,6 @@ MonoBehaviour:
   meleeA1Duration: 0
   meleeA2Duration: 0
   meleeA3Duration: 0
-  magicA1Duration: 0
   delayAtk: 0
 --- !u!61 &1358815319
 BoxCollider2D:
